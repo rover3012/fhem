@@ -2,6 +2,10 @@
 
 Container bauen
 ```
+git clone https://github.com/rover3012/fhem.git
+
+cd fhem
+
 docker build -t rover3012/fhem .
 ```
 
